@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3f1827c-a6a7-4f7b-967a-7e60a1803310" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-    </list>
+    <list default="true" id="f3f1827c-a6a7-4f7b-967a-7e60a1803310" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -110,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546667778887</updated>
-      <workItem from="1546667780113" duration="8262000" />
+      <workItem from="1546667780113" duration="8433000" />
     </task>
     <task id="LOCAL-00001" summary="Added docker files for dev and prod">
       <created>1547099367585</created>
@@ -123,7 +121,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8262000" />
+    <option name="totallyTimeSpent" value="8433000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="514" width="840" height="492" extended-state="0" />
@@ -197,6 +195,9 @@
           <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
